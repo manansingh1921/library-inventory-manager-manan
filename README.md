@@ -9,4 +9,3 @@ Library Management System - OOP Python Project
 - JSON file storage
 - OOP design with Book & Inventory classes
 
-## Run
