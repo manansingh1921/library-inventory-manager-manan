@@ -1,4 +1,4 @@
-# library-inventory-manager-manan
+# library-inventory-manager-by-manan
 Library Management System - OOP Python Project
 
 # Library Inventory Manager
